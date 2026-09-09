@@ -13,4 +13,5 @@
 - [ ] pnpm test
 - [ ] pnpm lint
 - [ ] pnpm build
+- [ ] GitHub Actions CI workflow'unu eklemek ve ilk çalışmayı doğrulamak
 - [ ] Kullanıcı onayı olmadan ücretli EAS build başlatmamak
